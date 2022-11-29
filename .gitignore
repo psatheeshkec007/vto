@@ -1,2 +1,11 @@
 .vs
 /.vs
+/vc-storefront/.vs
+/vc-storefront/VirtoCommerce.LiquidThemeEngine/bin
+/vc-storefront/VirtoCommerce.LiquidThemeEngine/obj
+/vc-storefront/VirtoCommerce.Storefront/bin
+/vc-storefront/VirtoCommerce.Storefront/obj
+/vc-storefront/VirtoCommerce.Storefront.Model/bin
+/vc-storefront/VirtoCommerce.Storefront.Model/obj
+/vc-storefront/VirtoCommerce.Storefront.Tests/bin
+/vc-storefront/VirtoCommerce.Storefront.Tests/obj
